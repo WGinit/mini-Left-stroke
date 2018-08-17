@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "左划组件",
+  "usingComponents":{
+    "Left-Storke": "/components/leftstorke/leftstorke"
+  }
+}

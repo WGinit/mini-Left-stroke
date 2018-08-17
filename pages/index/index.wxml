@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <Left-Storke 
+    list="{{list}}"
+    optionText ="删除"
+    bindjump="jumpToDetail"
+    bindoption="remove">
+  </Left-Storke>
+</view>
